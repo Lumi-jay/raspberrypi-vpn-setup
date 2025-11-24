@@ -1,3 +1,5 @@
+## 1️⃣ VPN Configuration Lab
+➡ [View VPN Lab Documentation](./01-VPN-Lab/README.md)
 # Raspberry Pi VPN Setup Using WireGuard  
 
 This project documents my hands-on experience  **setting up, configuring, and troubleshooting a VPN on Raspberry Pi using WireGuard**. This walkthrough is based on Wolfgang’s tutorial, with my own notes, fixes, and understanding. It highlights practical experience in **network configuration, Linux commands, and secure connectivity**.  
